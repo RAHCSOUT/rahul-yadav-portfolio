@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RAHCSOUT/portfolio/static/css/main.ff7a1775.css",
+    "main.js": "/RAHCSOUT/portfolio/static/js/main.038f5387.js",
+    "static/js/453.982c62ba.chunk.js": "/RAHCSOUT/portfolio/static/js/453.982c62ba.chunk.js",
+    "index.html": "/RAHCSOUT/portfolio/index.html",
+    "main.ff7a1775.css.map": "/RAHCSOUT/portfolio/static/css/main.ff7a1775.css.map",
+    "main.038f5387.js.map": "/RAHCSOUT/portfolio/static/js/main.038f5387.js.map",
+    "453.982c62ba.chunk.js.map": "/RAHCSOUT/portfolio/static/js/453.982c62ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7a1775.css",
+    "static/js/main.038f5387.js"
+  ]
+}
